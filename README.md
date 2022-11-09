@@ -6,7 +6,7 @@
 - Gradle(Build Automation Tool)
 - Selenium(Automation Tool)
 - TestNG(Automation framework)
-- Appium(Automation framework)
+- Appium(Standalone server)
 - Android SDK
 
 ## Scenario of this project
